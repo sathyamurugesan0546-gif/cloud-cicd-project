@@ -37,7 +37,7 @@ app.get('/', (req, res) => {
         <div class="container">
             <h1>🚀 AWS CI/CD Project</h1>
             <p>Deployed using Node.js + Express</p>
-            <p>Next: EC2 Deployment & Automation</p>
+            <p>CI/CD SUCCESS 🚀 (Auto deployed from GitHub)</p>
             <div class="tag">Cloud | DevOps | AWS</div>
         </div>
     </body>
